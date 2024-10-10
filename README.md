@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFtNGF0dWR3cWRmaHlxd2I5N2x5b2l1MW94OXczbDdiczZqNXJnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="1000"/>
 </div>
 <h1 align="center">Hi 👋, I'm Shyn</h1>
-<h3 align="center">A fascinating artificial intelligence engineer from Việt Nam.</h3>
+<h3 align="center">An exciting and humorous artificial intelligence engineer from Việt Nam.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=let-shyn-cook&label=Profile%20views&color=0e75b6&style=flat" alt="let-shyn-cook" /> </p>
 
